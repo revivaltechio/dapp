@@ -118,7 +118,7 @@ export const TOKEN = {
     abi: tokenAbi
   },
   56: {
-    address: '0x96FD7b0a92b5F2A746f07b5e78ceda8eDc8dA3FE',
+    address: '0xcEb244A0E126f6CCbf37d631c7b102cf3e11a536',
     abi: tokenAbi
   }
 }
@@ -129,7 +129,7 @@ export const STAKING = {
     abi: stakingAbi
   },
   56: {
-    address: '0x73abBf935BF87E9045E8d8F283a96D4C8e4283C3',
+    address: '0x0620EBaf1873cBc184A140c8f83eAfAAd33874C6',
     abi: stakingAbi
   }
 }
@@ -140,7 +140,7 @@ export const REWARD_DISTRIBUTOR = {
     abi: rewardDistributorAbi
   },
   56: {
-    address: '0xF97A801aCE6E2a167E793eF06cE3BeC009614C65',
+    address: '0x17e8a0989155D04a270C227f91e977084b10b13D',
     abi: rewardDistributorAbi
   }
 }
@@ -151,7 +151,7 @@ export const LP_TOKEN = {
     abi: erc20ABI,
   },
   56: {
-    address: '0x91144237574B77b091C7Ae7B07A1209a517921F3',
+    address: '0x92cf2A1f8382aBF443d07000134Eb129CC4A38FF',
     abi: erc20ABI
   }
 }
